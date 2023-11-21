@@ -1,0 +1,24 @@
+* Converter números inteiros em números romanos.
+  - Não deve aceitar letras de entrada.
+  - Não deve aceitar números negativos de entrada.
+  - Não deve aceitar números decimais de entrada.
+  - O maior número a ser convertido, deve ser o número 100.
+
+OBS: Para ambos os casos de erro, a operação deve retornar um throw de uma classe de Error.
+
+Numeros Romanos:
+I = 1
+V = 5
+X = 10
+L = 50
+C = 100
+
+Teste possivelmente de serem feitos:
+= 1
+> 1 & < 4
+= 4
+= 5
+> 5 & < 9
+= 9
+= 10
+...
